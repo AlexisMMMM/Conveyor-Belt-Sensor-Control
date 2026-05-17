@@ -37,7 +37,7 @@ This project implements an industrial conveyor belt control system where a motor
 
 | Variable | Type | Description |
 |---|---|---|
-| Motor_Start | BOOL | Motor start signal (auto-set TRUE) |
+| Motor_Start | BOOL | Motor start signal |
 | Motor_Stop | BOOL | Motor stop signal (NC contact) |
 | Motor_Running | BOOL | Motor output / self-latch |
 | Sensor_Object | BOOL | Object detection from Factory I/O |
