@@ -119,12 +119,14 @@ Motor_Running
 
 ## 📸 Screenshots
 
-| Description | File |
-|---|---|
-| Ladder Logic running | `![Ladder Logic](screenshots/ladder_conveyor_sensor_control.jpeg)` |
-| Factory I/O conveyor with sensor stop | `![Factory IO Running](screenshots/factory_io_conveyor_running.jpeg)` |
-| Modbus driver mapping | `![Modbus Driver](screenshots/modbus_tcp_driver_mapping.jpeg)` |
+**Ladder Logic running**
+![Ladder Logic](screenshots/ladder_conveyor_sensor_control.jpeg)
 
+**Factory I/O conveyor with sensor stop**
+![Factory IO Running](screenshots/factory_io_conveyor_running.jpeg)
+
+**Modbus driver mapping**
+![Modbus Driver](screenshots/modbus_tcp_driver_mapping.jpeg)
 ---
 
 ## 🗺️ Roadmap Context
