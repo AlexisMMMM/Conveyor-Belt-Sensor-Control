@@ -121,9 +121,9 @@ Motor_Running
 
 | Description | File |
 |---|---|
-| Ladder Logic running | `[screenshots/ladder_logic.png](https://github.com/AlexisMMMM/Conveyor-Belt-Sensor-Control/blob/main/screenshots/ladder_conveyor_sensor_control.jpeg)` |
-| Factory I/O conveyor with sensor stop | `[screenshots/factory_io_running.png](https://github.com/AlexisMMMM/Conveyor-Belt-Sensor-Control/blob/main/screenshots/factory_io_conveyor_running.jpeg)` |
-| Modbus driver mapping | `[screenshots/modbus_driver.png](https://github.com/AlexisMMMM/Conveyor-Belt-Sensor-Control/blob/main/screenshots/modbus_tcp_driver_mapping.jpeg)` |
+| Ladder Logic running | `![Ladder Logic](screenshots/ladder_conveyor_sensor_control.jpeg)` |
+| Factory I/O conveyor with sensor stop | `![Factory IO Running](screenshots/factory_io_conveyor_running.jpeg)` |
+| Modbus driver mapping | `![Modbus Driver](screenshots/modbus_tcp_driver_mapping.jpeg)` |
 
 ---
 
